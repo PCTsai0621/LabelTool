@@ -65,7 +65,10 @@ Data.ptsAll=[];
 Data.frame_cache.order=[];
 Data.timer=0;
 Data.grab_log_path='grab_log.mat';
-Data.inputSource='MOMO.mp4';
+
+%TODO: set up the input video
+%Data.inputSource='InputVideoFile';
+
 Data.frame_cache.inputSource=Data.inputSource;
 %% label information
 handle.text_x=uicontrol('style','text',...
