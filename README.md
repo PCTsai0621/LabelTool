@@ -15,3 +15,5 @@ which show the information of labeling data in `labels.mat`.
 #### Usage 
 Press "start" and click on the location of body joint to label. It will output the label file 
 `labels.mat` and log file `grab_log.mat`. Also it will save the frame you choose to label.
+
+![alt tag](./show.png)
